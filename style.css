@@ -88,6 +88,12 @@ ul.menu li a:hover {
   color: #333;
   line-height: 1.2;
 }
+.section-a .info a {
+  color: white;
+}
+.section-a .info a:hover {
+  color: black;
+}
 .info p {
   margin: 0 3rem;
   line-height: 1.9;
